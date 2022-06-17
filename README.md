@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marijn17S
 - 👀 I’m interested in Desktop Software Development
-- 🌱 I’m currently learning: C++, Ethical Hacking
+- 🌱 I’m currently learning: C++
 - 💞️ I’m looking for people to join my development team.
-- 📫 Send me a message on discord: Marijn#5974 or join my discord: https://crackshack.dev
+- 📫 Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev
 
 <!---
 Marijn17S/Marijn17S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
