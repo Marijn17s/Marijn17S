@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marijn17S
 - 👀 I’m interested in Desktop Software Development
-- 🌱 I’m currently learning: C++
+- 🌱 Currently learning: C++, Laravel, TailwindCSS
 - 💞️ I’m looking for people to join my development team.
 - 📫 Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev
 
