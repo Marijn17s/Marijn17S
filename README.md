@@ -55,10 +55,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- #### Responsive Card Theme -->
 
-<p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact)](https://github.com/Marijn17S/marijn-stats)
-</p>
-
 > [![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marijn17S/github-readme-stats#gh-dark-mode-only)
 > [![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Marijn17S/marijn-stats#gh-light-mode-only)
 
