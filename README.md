@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
 
-> [![Interested in:]]
+> Interested in:
 
 <!-- #### Responsive Card Theme -->
 
