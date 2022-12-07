@@ -43,13 +43,10 @@
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
 
 > Interested in: Desktop Software Development
-<br>
 
 > Currently learning: C++, Laravel, TailwindCSS, Python
-<br>
 
 > Looking for people to join my development team (voluntary) to just code some fun stuff.
-<br>
 
 > Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev/discord
 
