@@ -42,13 +42,13 @@
 
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
 
-> Interested in: Desktop Software Development
+## Interested in: Desktop Software Development
 
-> Currently learning: C++, Laravel, TailwindCSS, Python
+## Currently learning: C++, Laravel, TailwindCSS, Python
 
-> Looking for people to join my development team (voluntary) to just code some fun stuff.
+## Looking for people to join my development team (voluntary) to just code some fun stuff.
 
-> Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev/discord
+## Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev/discord
 
 > [![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marijn17S/github-readme-stats#gh-dark-mode-only)
 > [![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Marijn17S/marijn-stats#gh-light-mode-only)
