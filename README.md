@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
  <p align="center">These are my github stats!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passings" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>-->
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
     </a>
