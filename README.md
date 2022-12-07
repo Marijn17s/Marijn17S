@@ -480,26 +480,13 @@ Choose from any of the [default themes](#themes)
 
 -   Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://marijn-stats.vercel.app/api/top-langs/?username=Marijn17S)](https://github.com/Marijn17S/marijnstats)
 
 -   WakaTime card
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
-
-### Quick Tip (Align The Repo Cards)
-
-By default, GitHub does not lay out the cards side by side. To do that, you can use this approach:
-
-```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-```
 
 ## Deploy on your own Vercel instance
 
@@ -557,7 +544,8 @@ Thanks! :heart:
 
 * * *
 
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+[![https://
+.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
 Contributions are welcome! &lt;3
 
