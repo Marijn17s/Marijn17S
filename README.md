@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
     </a>
   </p>
 
-  <p align="center">
+  <!--<p align="center">
     <a href="#demo">View Demo</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
@@ -48,30 +48,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
+  </p>-->
 </p>
 
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
