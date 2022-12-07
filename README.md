@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <!--<a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
+    </a> -->
     <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
@@ -70,170 +70,10 @@ You can click the Preview link to take a look at your changes.
 -   [Deploy Yourself](#deploy-on-your-own-vercel-instance)
     - [Keep your fork up to date](#keep-your-fork-up-to-date)
 
-#### Responsive Card Theme
+<!-- #### Responsive Card Theme -->
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
-
-##### Use the transparent theme
-
-We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=transparent)
-```
-
-<details>
-<summary>:eyes: Show example</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=transparent)
-
-</details>
-
-##### Add transparent alpha channel to a themes bg_color
-
-You can use the `bg_color` parameter to make any of [the available themes](./themes/README.md) transparent. This is done by setting the `bg_color` to a colour with a transparent alpha channel (i.e. `bg_color=00000000`):
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&bg_color=00000000)
-```
-
-<details>
-<summary>:eyes: Show example</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&bg_color=00000000)
-
-</details>
-
-##### Use GitHub's theme context tag
-
-You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
-
-```md
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-```
-
-<details>
-<summary>:eyes: Show example</summary>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</details>
-
-##### Use GitHub's new media feature
-
-You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/) in HTML to specify whether to display images for light or dark themes. This is done using the HTML `<picture>` element in combination with the `prefers-color-scheme` media feature.
-  
-```html
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true" />
-</picture>
-```
-
-<details>
-<summary>:eyes: Show example</summary>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true" />
-</picture>
-
-</details>
-
-### Customization
-
-You can customize the appearance of your `Stats Card` or `Repo Card` however you wish with URL parameters.
-
-#### Common Options
-
--   `title_color` - Card's title color _(hex color)_. Default: `2f80ed`.
--   `text_color` - Body text color _(hex color)_. Default: `434d58`.
--   `icon_color` - Icons color if available _(hex color)_. Default: `4c71f2`.
--   `border_color` - Card's border color _(hex color)_. Default: `e4e2e2` (Does not apply when `hide_border` is enabled).
--   `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_. Default: `fffefe`
--   `hide_border` - Hides the card's border _(boolean)_. Default: `false`
--   `theme` - name of the theme, choose from [all available themes](./themes/README.md). Default: `default` theme. 
--   `cache_seconds` - set the cache header manually _(min: 7200, max: 86400)_. Default: `14400 seconds (4 hours)`.
--   `locale` - set the language in the card _(e.g. cn, de, es, etc.)_. Default: `en`.
--   `border_radius` - Corner rounding on the card. Default: `4.5`.
-
-> **Warning**
-> We use caching to decrease the load on our servers (see https://github.com/anuraghazra/github-readme-stats/issues/1471#issuecomment-1271551425). Our cards have a default cache of 4 hours (14400 seconds). Also, note that the cache is clamped to a minimum of 4 hours and a maximum of 24 hours.
-
-##### Gradient in bg_color
-
-You can provide multiple comma-separated values in the bg_color option to render a gradient with the following format:
-
-    &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-
-#### Stats Card Exclusive Options
-
--   `hide` - Hides the [specified items](#hiding-individual-stats) from stats _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default: `false`.
--   `card_width` - Set the card's width manually _(number)_. Default: `500px  (approx.)`.
--   `hide_rank` - _(boolean)_ hides the rank and automatically resizes the card width. Default: `false`.
--   `show_icons` - _(boolean)_. Default: `false`.
--   `include_all_commits` - Count total commits instead of just the current year commits _(boolean)_. Default: `false`.
--   `count_private` - Count private commits _(boolean)_. Default: `false`.
--   `line_height` - Sets the line height between text _(number)_. Default: `25`.
--   `exclude_repo` - Exclude stars from specified repositories _(Comma-separated values)_. Default: `[] (blank array)`.
--   `custom_title` - Sets a custom title for the card. Default:  `<username> GitHub Stats`.
--   `text_bold` - Use bold text _(boolean)_. Default: `true`.
--   `disable_animations` - Disables all animations in the card _(boolean)_. Default: `false`.
--   `ring_color` - Color of the rank circle _(hex color)_. Defaults to the theme ring color if it exists and otherwise the title color.
-
-> **Note**
-> When hide_rank=`true`, the minimum card width is 270 px + the title length and padding.
-
-#### Repo Card Exclusive Options
-
--   `show_owner` - Show the repo's owner name _(boolean)_. Default: `false`.
-
-#### Language Card Exclusive Options
-
--   `hide` - Hide the languages specified from the card _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default: `false`.
--   `layout` - Switch between two available layouts `default` & `compact`. Default: `default`.
--   `card_width` - Set the card's width manually _(number)_. Default `300`.
--   `langs_count` - Show more languages on the card, between 1-10 _(number)_. Default `5`.
--   `exclude_repo` - Exclude specified repositories _(Comma-separated values)_. Default: `[] (blank array)`.
--   `custom_title` - Sets a custom title for the card _(string)_. Default `Most Used Languages`.
-
-> **Warning**
-> Language names should be URI-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
-> (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.) You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
-
-#### Wakatime Card Exclusive Options
-
--   `hide` - Hide the languages specified from the card _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default `false`.
--   `line_height` - Sets the line height between text _(number)_. Default `25`.
--   `hide_progress` - Hides the progress bar and percentage _(boolean)_. Default `false`.
--   `custom_title` - Sets a custom title for the card _(string)_. Default `Wakatime Stats`.
--   `layout` - Switch between two available layouts `default` & `compact`.  Default `default`.
--   `langs_count` - Limit the number of languages on the card, defaults to all reported languages _(number)_.
--   `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/mujx/hakatime) or [Wakapi](https://github.com/muety/wakapi) _(string)_. Default `Waka API`.
--   `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://wakatime.com/developers#stats) for a list of available options. _(YYYY-MM, last_7_days, last_30_days, last_6_months, last_year, or all_time)_. Default `all_time`.
 
 * * *
 
