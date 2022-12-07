@@ -53,6 +53,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
 
 > Interested in:
+> Currently learning: C++, Laravel, TailwindCSS, Python
+> Looking for people to join my development team (voluntary) to just code some fun stuff.
+> Send me a message on discord: Marijn#5974 or join my discord: [![Marijn's GitHub stats-Dark](https://centralsoftware.dev/discord)]
 
 <!-- #### Responsive Card Theme -->
 
