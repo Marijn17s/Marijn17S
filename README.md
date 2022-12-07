@@ -53,7 +53,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/CHANGEME">donating</a> to help me improve!</p>
 
 <p align="center">
-    >  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    >  Interested in:
+    * Desktop Software Development
 </p>
 
 <!-- #### Responsive Card Theme -->
