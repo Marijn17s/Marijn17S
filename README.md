@@ -1,8 +1,8 @@
-<!-- <p align="center">
+<p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Stats</h2>
  <p align="center">These are my github stats!</p>
-</p> -->
+</p>
   <!--<p align="center">
     <!--<a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passings" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
