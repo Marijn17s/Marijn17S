@@ -3,7 +3,7 @@
  <h2 align="center">GitHub Stats</h2>
  <p align="center">These are my github stats!</p>
 </p>
-  <p align="center">
+  <!--<p align="center">
     <!--<a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passings" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>-->
@@ -15,7 +15,7 @@
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a> -->
 <!--     <a href="">
-    <!--<a href="https://github.com/anuraghazra/github-readme-stats/issues">-->
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a> -->
     <!--<a href="https://github.com/anuraghazra/github-readme-stats/pulls">-->
