@@ -47,7 +47,7 @@
 
 > ### Interested in: Desktop Software Development
 
-> ### Currently learning: C++, Laravel, TailwindCSS, Python
+> ### Currently learning: Python, Laravel, CPP
 
 > ### Looking for people to join my development team (voluntary) to just code some fun stuff.
 
