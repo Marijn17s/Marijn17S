@@ -53,8 +53,8 @@
 
 > ### Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev/discord
 
-> [![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marijn17S/MarijnStats#gh-dark-mode-only)
-> [![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Marijn17S/marijn-stats#gh-light-mode-only)
+> [![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark#gh-dark-mode-only)]
+> [![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only)]
 
 > [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
