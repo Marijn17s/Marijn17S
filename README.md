@@ -56,7 +56,7 @@
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
 <!-- > ![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only) -->
 
-> [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact&theme=dark&exclude_repo=bld_announcer)](https://github.com/anuraghazra/github-readme-stats)
+> ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact&theme=dark&exclude_repo=bld_announcer)
 
 <!-- ### Demo
 
