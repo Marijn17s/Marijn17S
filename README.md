@@ -43,15 +43,15 @@
   </p>-->
 </p>
 
-<p align="center">Like my work? Please consider <a href="https://www.paypal.me/marijn17s">donating</a> to help me improve!</p>
+<p align="center">Like my work? Please consider <a href="https://www.paypal.me/marijn17s">donating</a></p>
 
 > ### Interested in: Desktop Software Development
 
-> ### Currently learning: Python, Laravel, CPP
+> ### Currently learning: Laravel
 
 > ### Looking for people to join my development team (voluntary) to just code some fun stuff.
 
-> ### Send me a message on discord: Marijn#5974 or join my discord: https://centralsoftware.dev/discord
+> ### Send me a message on discord: Marijn#5974 or join my discord: https://csdev.me/discord
 
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
 <!-- > ![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only) -->
