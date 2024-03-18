@@ -45,16 +45,21 @@
 
 <p align="center">Like my work? Please consider <a href="https://www.paypal.me/marijn17s">donating</a></p>
 
-> ### Interested in: Desktop Software Development
+> ### Interested in: Desktop Development
 
-> ### Currently learning: Laravel
+> ### Knowledge in: C# (WPF, Asp.Net, WinForms), Laravel, MySQL
 
-> ### Looking for people to join my development team.
+> ### Basic understanding of: Html, Css, Javascript, Php, Flutter
+
+> ### Currently learning: Rust
+
+> ### Tools I use: JetBrains (Rider, RustRover, PhpStorm), DBeaver, Postman
+
+> ### Looking for developers to join my development team and create fun projects.
 
 > ### Send me a message on discord: Marijn17s or join my discord: https://csdev.me/discord
 
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
-<!-- > ![Marijn's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=default#gh-light-mode-only) -->
 
 > ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marijn17S&layout=compact&theme=dark&exclude_repo=bld_announcer)
 
