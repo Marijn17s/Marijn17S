@@ -47,7 +47,7 @@
 
 > ### Interested in: Desktop Development
 
-> ### Knowledge in: C# (WPF, Asp.Net, WinForms), Laravel, MySQL
+> ### Knowledge in: C#, VB (WPF, Asp.Net, WinForms), Laravel, MySQL
 
 > ### Basic understanding of: Html, Css, Javascript, Php, Flutter
 
