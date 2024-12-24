@@ -43,7 +43,7 @@
   </p>-->
 </p>
 
-<p align="center">Like my work? Please consider <a href="https://www.paypal.me/marijn17s">donating</a></p>
+<p align="center">Like my work? Buy me a coffee <a href="https://www.paypal.me/marijn17s">donating</a></p>
 
 > ### Interested in: Desktop Development
 
