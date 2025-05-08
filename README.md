@@ -49,7 +49,7 @@
 
 > ### Knowledge in: C#, VB (WPF, Asp.Net, WinForms), Laravel, MySQL
 
-> ### Basic understanding of: HTML, CSS, JavaScript, PHP, Flutter, Go
+> ### Basic understanding of: HTML, CSS, JavaScript, TypeScript, PHP, Flutter, Go
 
 > ### Currently learning: Rust
 
