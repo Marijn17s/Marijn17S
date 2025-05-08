@@ -47,9 +47,9 @@
 
 > ### Interested in: Desktop Development, high performance applications
 
-> ### Knowledge in: C#, VB (WPF, Asp.Net, WinForms), Laravel, MySQL
+> ### Knowledgeable in: C#, VB (WPF, Asp.Net, WinForms), Laravel, MySQL
 
-> ### Basic understanding of: HTML, CSS, JavaScript, TypeScript, PHP, Flutter, Go
+> ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Flutter, Go
 
 > ### Currently learning: Rust
 
