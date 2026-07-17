@@ -47,13 +47,13 @@
 
 > ### Interested in: Desktop Development, high performance applications, back-end development
 
-> ### Proficient in: C#, VB (WPF, Asp.Net, WinForms), MySQL
+> ### Proficient in: C#, VB (WPF, ASP.NET Razor Pages, MAUI, WinForms), MySQL
 
 > ### Experience in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Flutter, Go, Kotlin, PostgreSQL
 
-> ### Currently learning: Rust
+> ### Currently learning: Wails (Go)
 
-> ### Tools I use: JetBrains suite (Rider, RustRover, CLion), DBeaver, Insomnia, VSCodium
+> ### Tools I use: JetBrains suite (Rider, Android Studio, RustRover, CLion), DBeaver, Insomnia, VSCodium
 
 <!--
 > ![Marijn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marijn17S&show_icons=true&theme=dark)
